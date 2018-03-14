@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMAGES/Best.PNG</file>
+        <file>IMAGES/chekerboard.png</file>
+        <file>IMAGES/Calibration_chessboard.jpg</file>
+        <file>IMAGES/9x7_checkerboard.jpg</file>
+        <file>IMAGES/download.jpg</file>
+        <file>IMAGES/6x3CheckerBoard1920x1080.jpg</file>
+        <file>IMAGES/7x7Checker.jpg</file>
+        <file>IMAGES/Asymmetric14x8.jpg</file>
+        <file>IMAGES/Checker4x3(0.5).jpg</file>
+        <file>IMAGES/Checker4x3(1).jpg</file>
+        <file>IMAGES/Symmetric15x9.jpg</file>
+        <file>IMAGES/17x9.jpg</file>
+        <file>IMAGES/SymmetricBorder15x7.jpg</file>
+        <file>IMAGES/SymmetricBorderWhite15x7.jpg</file>
+        <file>IMAGES/SymmetricFullWhite15x7.jpg</file>
+    </qresource>
+</RCC>
